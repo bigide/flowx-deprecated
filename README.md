@@ -1,11 +1,25 @@
 # bigide-flowx
 
 之前做过调度系统开发
+后台基于spring+mybatis
+前端基于jquery+jsplumb
 下面是截图
 ![流程列表](./images/1joblist.png)
+![流程列表](./images/datalfow.png)
+![流程列表](./images/procs.png)
+![流程列表](./images/shell.png)
+![流程列表](./images/sql.png)
+![流程列表](./images/subflow.png)
+![流程列表](./images/sync.png)
+![流程列表](./images/email.png)
+![流程列表](./images/flow_monitor_list.png)
+![流程列表](./images/fuck.png)
 
 
-后来被某观开源了，竟然进入apache孵化器，原本觉得没什么，某观技术人员竟然说自己找了好久，强烈表示鄙视某观的技术
+后来被某观开源了，竟然进入apache孵化器，原本觉得没什么
+某观技术人员竟然在社群说自己找了好久，强烈表示鄙视某观的技术，尼玛是我找了好久
+![流程列表](./images/1351777360.png)
+
 # 开源调度系统列表
 
 ## azkaban  https://github.com/azkaban/azkaban
