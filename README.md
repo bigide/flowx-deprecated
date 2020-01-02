@@ -1,5 +1,11 @@
 # bigide-flowx
 
+之前做过调度系统开发
+下面是截图
+![流程列表](./images/1joblist.png)
+
+
+后来被某观开源了，竟然进入apache孵化器，原本觉得没什么，某观技术人员竟然说自己找了好久，强烈表示鄙视某观的技术
 # 开源调度系统列表
 
 ## azkaban  https://github.com/azkaban/azkaban
