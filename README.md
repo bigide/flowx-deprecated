@@ -15,9 +15,6 @@
 ![流程列表](./images/flow_monitor_list.png)
 ![流程列表](./images/fuck.png)
 
-某观技术人员竟然在社群说自己找了好久，强烈表示鄙视，尼玛是我找了好久，你们是抄袭我的，连图标都不换
-![流程列表](./images/1351777360.png)
-
 # 开源调度系统列表
 
 ## azkaban  https://github.com/azkaban/azkaban
