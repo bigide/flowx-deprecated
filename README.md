@@ -1,5 +1,5 @@
 # flowx-deprecated
-# 最新版本 https://flowx.bigide.com
+# 最新版本 http://flowx.bigide.com
 # 新版代码 https://github.com/bigide/bigide-flowx
 之前做过调度系统开发
 后台基于spring+mybatis
