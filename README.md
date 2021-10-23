@@ -1,4 +1,5 @@
-# flowx-deprecated
+# flowx-deprecated 
+# 发现某项目存在抄袭情况，后续代码不再开源
 # 最新版本 http://flowx.bigide.com
 # 新版代码 https://github.com/bigide/bigide-flowx
 之前做过调度系统开发
